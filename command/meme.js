@@ -40,6 +40,6 @@ module.exports = {
         )
         
     },
-    name: 'rdme'
+    name: 'meme'
         
 }
